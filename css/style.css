@@ -129,6 +129,13 @@ table, th, td {
     text-align: left;
     padding: 10px;
 }
+aside.gift-aviso {
+    width: 120px;
+    margin:0.5rem;
+    padding: 5px, 30px, 30px, 5px;
+    
+
+}
 
 /* pagina contactos */
 aside.ascont {
