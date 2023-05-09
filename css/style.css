@@ -53,7 +53,7 @@ main>div {
 }
 
 main>aside {
-    border: 2px blue solid;
+    /* border: 2px blue solid; */
     min-height: 180px;
     margin: 0.5rem;
     min-width: 20%;
@@ -130,9 +130,12 @@ table, th, td {
     padding: 10px;
 }
 aside.gift-aviso {
-    width: 120px;
-    margin:0.5rem;
-    padding: 5px, 30px, 30px, 5px;
+    min-height: 180px;
+    margin: 1.5rem;
+    min-width: 19%;
+    margin: 2.5rem, 0, 0, 3.5rem;
+    float: center;
+    width: auto;
     
 
 }
