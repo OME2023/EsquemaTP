@@ -62,7 +62,7 @@ main>aside {
     width: auto;
 }
 .secciones {
-    border: 2px green solid;
+    /* border: 2px green solid; */
     min-height: 50px;
     margin: 0.5rem;
 }
@@ -124,7 +124,7 @@ table {
     width: auto;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid rgb(113, 76, 216);
     border-collapse: collapse;
     text-align: left;
     padding: 10px;
