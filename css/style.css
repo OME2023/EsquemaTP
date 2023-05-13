@@ -65,6 +65,7 @@ main>aside {
     /* border: 2px green solid; */
     min-height: 50px;
     margin: 0.5rem;
+    
 }
 
 .secciones article {
@@ -120,14 +121,23 @@ main>aside {
 }
 
 /* pagina profesionales */
+.tit {
+    text-align: center;
+}
+.tab_prof {
+    margin: auto;
+    margin-top: 1rem;
+}
 table {
     width: auto;
 }
 table, th, td {
+    float: center;
     border: 1px solid rgb(113, 76, 216);
     border-collapse: collapse;
     text-align: left;
     padding: 10px;
+   
 }
 aside.gift-aviso {
     min-height: 180px;
