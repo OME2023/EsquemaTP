@@ -69,9 +69,12 @@ main>aside {
 }
 
 .secciones article {
-    border: 2px purple solid;
+    /* border: 2px purple solid; */
     margin: 0.5rem;
     min-height: 20px;
+    text-align: justify;
+    text-shadow: #0a1a2a;
+    text-anchor: middle;
 }
 
 #gif-ppal {
@@ -119,7 +122,10 @@ main>aside {
     font-size: 1.2rem;
     background: transparent;
 }
-
+.contenido-sec {
+    min-width: 20rem;
+    height: auto;
+}
 /* pagina profesionales */
 .tit {
     text-align: center;
@@ -142,7 +148,7 @@ table, th, td {
 aside.gift-aviso {
     min-height: 180px;
     margin: 1.5rem;
-    min-width: 19%;
+    min-width: 23%;
     margin: 2.5rem, 0, 0, 3.5rem;
     float: center;
     width: auto;
